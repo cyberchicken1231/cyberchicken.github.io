@@ -1,3 +1,12 @@
 title: "Moses's Tech Blog"
-theme: minima
 description: "random projects and things im working on"
+baseurl: "" # leave empty for GitHub Pages root
+url: "https://cyberchicken1231.github.io" # replace with your GitHub Pages URL
+
+theme: jekyll-theme-architect
+
+# Optional: include plugins if you want feed or sitemap
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
